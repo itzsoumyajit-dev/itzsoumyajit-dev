@@ -139,21 +139,17 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=itzsoumyajit-dev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=itzsoumyajit-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itzsoumyajit-dev/itzsoumyajit-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itzsoumyajit-dev/itzsoumyajit-dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/itzsoumyajit-dev/itzsoumyajit-dev/output/github-snake.svg" />
-</picture>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzsoumyajit-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
